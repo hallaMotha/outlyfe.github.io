@@ -1,0 +1,1 @@
+function b(){var c=document.getElementById("input").value,a=Math.random();0!==a&&alert("Din kode er: "+Math.PI/a*c)}window.addEventListener("load",function(){document.getElementById("button").addEventListener("click",b)});
